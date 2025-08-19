@@ -76,7 +76,7 @@ class AppConfig:
     """Configuration for Streamlit application"""
     # App metadata
     title: str = "Dense Video Captioning"
-    description: str = "Time-stamped scene descriptions and a concise video summary"
+    description: str = "Time-stamped scene captions and a concise video summary"
     page_icon: str = "🎬"
     
     # File handling
