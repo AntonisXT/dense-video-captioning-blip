@@ -75,8 +75,8 @@ class MotionKeywords:
 class AppConfig:
     """Configuration for Streamlit application"""
     # App metadata
-    title: str = "AI Video Captioning System"
-    description: str = "Advanced descriptive scene captioning and intelligent video content summarization"
+    title: str = "Dense Video Captioning"
+    description: str = "Time-stamped scene descriptions and a concise video summary"
     page_icon: str = "🎬"
     
     # File handling
