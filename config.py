@@ -1,6 +1,6 @@
 # config.py
 """
-Centralized configuration for AI Video Captioning System
+Centralized configuration
 All settings and parameters are defined here for easy management
 """
 
