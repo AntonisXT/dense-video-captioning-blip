@@ -1,0 +1,4 @@
+📊 Averages:
+bleu      0.134583
+meteor    0.439975
+rouge     0.458483

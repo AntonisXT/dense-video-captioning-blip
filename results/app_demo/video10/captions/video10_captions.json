@@ -1,0 +1,21 @@
+{
+  "video_id": "video10",
+  "summary": "First, A group of people are sitting in chairs near a river. Next, A man and woman are playing a guitar in a living room. Finally, A man is holding two dogs in his arms.",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a group of people sitting in chairs near a river"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a man and woman playing guitar in a living room"
+    },
+    {
+      "start_time": 4,
+      "end_time": 12,
+      "caption": "a man holding two dogs in his arms"
+    }
+  ]
+}

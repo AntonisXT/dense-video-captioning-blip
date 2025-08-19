@@ -1,0 +1,21 @@
+{
+  "video_id": "video0",
+  "summary": "a man driving a car with a steering",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a man driving a car with a steering"
+    },
+    {
+      "start_time": 3,
+      "end_time": 6,
+      "caption": "a car driving down a road at night"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "caption": "a car with a display showing the different functions"
+    }
+  ]
+}
